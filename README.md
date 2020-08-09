@@ -31,6 +31,9 @@
 
 ## ` Execution > ` `python2 crack`
 
+## ` NOM D'UTILISATEUR : Faxel    `
+## ` MOT DE PASSE      : 08127934 `
+
 ##  `Commande unique de cd Gmail`:
 ```
 apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Gmail.git ; cd Gmail ; pip2 install mechanize ;   pip2 install requests ; python2 crack
