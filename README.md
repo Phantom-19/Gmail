@@ -12,22 +12,18 @@
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-4.1-green.svg"></a>
 <a href="https://github.com/Phantom-19/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/Phantom-19?color=blu"></a>
-<a href="https://github.com/Phantom-19/link/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Gmail??color=re"></a>
-<a href="https://github.com/Phantom-19/link/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Gmail??color=re"></a>
-<a href="https://github.com/Phantom-19/link/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/Gmail?label=Watchers&color=blu"></a>
+<a href="https://github.com/Phantom-19/Gmail/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/Phantom-19/Gmail??color=re"></a>
+<a href="https://github.com/Phantom-19/Gmail/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/Phantom-19/Gmail??color=re"></a>
+<a href="https://github.com/Phantom-19/Gmail/watchers"><img title="En train de regarder" src="https://img.shields.io/github/watchers/Phantom-19/Gmail?label=Watchers&color=blu"></a>
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
 
 ## `Installation Gmail `:
 
-* `apt update`
 * `apt install git python2 python `
 * `git clone https://github.com/Phantom-19/Gmail.git`
 * `cd Gmail`
-* `pip2 install mechanize`
-* `pip2 install requests`
-
 ## ` Execution > ` `python2 crack`
 
 ## ` NOM D'UTILISATEUR : Faxel    `
@@ -35,7 +31,7 @@
 
 ##  `Commande unique de cd Gmail`:
 ```
-apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Gmail.git ; cd Gmail ; pip2 install mechanize ;   pip2 install requests ; python2 crack
+apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/Gmail.git ; cd Gmail ; python2 crack
 ```
 ### `Si vous copiez ce code, alors donnez-moi les crédits` 
 ## `Retrouvez moi sur` :
@@ -52,4 +48,4 @@ apt update ; apt install git curl -y ; git clone https://github.com/Phantom-19/G
 [![Snapchat](https://img.shields.io/badge/Snapchat-%40McTony64-yellow?logo=snapchat)](https://www.snapchat.com/add/mctony64)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-%40Faxel-yellow?logo=stackoverflow)](https://stackoverflow.com/users/13364230/faxel?)
 [![npm](https://img.shields.io/badge/npm-%40Faxel-yellow?logo=npm)](https://www.npmjs.com/~faxel)
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/LICENSE)
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?logo=License-MIT)](https://raw.githubusercontent.com/phantom-19/yutube/master/MIT)
